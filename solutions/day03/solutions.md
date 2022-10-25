@@ -6,7 +6,7 @@
 
 4)- Component is like a lego, so "create once use it multiply times"
 
-5)- 18
+5)- latest react version : 18
 
 6)- DOM or (Document Object Model): it's browser API that allows you muniplite your markup!
 
